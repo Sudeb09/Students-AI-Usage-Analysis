@@ -1,16 +1,16 @@
 # Analysis of Student AI Usage in Higher Education
 
-**Author:** Sudeb Paul
+**Author :** *Sudeb Paul*
 
-**Date:** 20.07.2025
+**Date :** 20.07.2025
 
-**Dataset Source:** Kaggle
+**Dataset Source :** *Kaggle*
 
-**Author on Kaggle:** Rakesh Kapilavayi
+**Author on Kaggle :** *Rakesh Kapilavayi*
 
-**Dataset Name:** AI Tool Usage by Indian College Students 2025
+**Dataset Name :** *AI Tool Usage by Indian College Students 2025*
 
-**Dataset URL:** [Link](https://www.kaggle.com/datasets/rakeshkapilavai/ai-tool-usage-by-indian-college-students-2025)
+**Dataset URL :** *[Link](https://www.kaggle.com/datasets/rakeshkapilavai/ai-tool-usage-by-indian-college-students-2025)*
 
 -----
 
@@ -22,7 +22,7 @@ This project analyzes a dataset containing information on student AI usage in hi
 
 ## Dataset
 
-This analysis is conducted using the `StudentAIUsage` dataset, a comprehensive collection of 3487 records detailing student engagement with AI tools in higher education. Each entry encapsulates key attributes, including:
+This analysis is conducted using the `StudentAIUsage` dataset, a comprehensive collection of 3614 records detailing student engagement with AI tools in higher education. Each entry encapsulates key attributes, including:
 
   * **Demographic Information:** Academic Stream, Year of Study, College Affiliation, and Geographic Location (State).
   * **AI Interaction Metrics:** Types of AI tools utilized, average daily usage hours, and primary use cases.
